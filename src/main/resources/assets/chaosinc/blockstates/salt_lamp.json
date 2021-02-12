@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/salt_lamp",
+            "down":"chaosinc:blocks/salt_lamp",
+            "east":"chaosinc:blocks/salt_lamp",
+            "west":"chaosinc:blocks/salt_lamp",
+            "north":"chaosinc:blocks/salt_lamp",
+            "south":"chaosinc:blocks/salt_lamp",
+            "particle":"chaosinc:blocks/salt_lamp"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

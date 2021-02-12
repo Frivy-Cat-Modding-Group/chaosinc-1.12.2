@@ -1,0 +1,16 @@
+{
+    "touhoulittlemaid.entity.monster.EntityFairy": [
+        "fly|true",
+        "hostile",
+        "float|-0.114,true",
+        "fear|6,1.05D,touhoulittlemaid.entity.passive.EntityMaid"
+    ],
+    "touhoulittlemaid.entity.monster.EntityRinnosuke": [
+        "hostile",
+        "fear|6,1.05D,touhoulittlemaid.entity.passive.EntityMaid"
+    ],
+    "net.minecraft.entity.passive.EntityParrot": [
+        "fly|true",
+        "float|-0.114,true"
+    ]
+}

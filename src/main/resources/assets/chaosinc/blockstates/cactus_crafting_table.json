@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "particle":"chaosinc:blocks/cactus_crafting_table_front",
+            "down":"chaosinc:blocks/compressed_cactus",
+            "up":"chaosinc:blocks/cactus_crafting_table_top",
+            "north":"chaosinc:blocks/cactus_crafting_table_front",
+            "east":"chaosinc:blocks/cactus_crafting_table_side",
+            "south":"chaosinc:blocks/cactus_crafting_table_side",
+            "west":"chaosinc:blocks/cactus_crafting_table_front"
+        }
+    },
+    "variants": {
+        "normal": { "model": "cube_all" },
+        "inventory":[{"model":"cube_all"}]
+    }
+}

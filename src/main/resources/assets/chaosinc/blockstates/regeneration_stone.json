@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/regeneration_stone",
+            "down":"chaosinc:blocks/regeneration_stone",
+            "east":"chaosinc:blocks/regeneration_stone",
+            "west":"chaosinc:blocks/regeneration_stone",
+            "north":"chaosinc:blocks/regeneration_stone",
+            "south":"chaosinc:blocks/regeneration_stone",
+            "particle":"chaosinc:blocks/regeneration_stone"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

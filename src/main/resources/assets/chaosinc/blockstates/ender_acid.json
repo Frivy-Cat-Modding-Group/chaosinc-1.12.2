@@ -1,0 +1,24 @@
+{
+    "forge_marker":1,
+    "variants":{
+        "fluid":{
+            "model":"forge:fluid",
+            "custom":{
+                "fluid":"ender_acid"
+            }
+        }
+    },
+    "inventory":{
+        "models":"forge:forge_bucket",
+        "textures":{
+            "base":"forge:items/bucket_base",
+            "fluid":"chaosinc:item/bucket_fluid",
+            "cover":"forge:item/bucket_cover"
+        },
+        "transform":"forge:default-item",
+        "custom":{
+            "fluid":"ender_acid",
+            "flipGas":true
+        }
+    }
+}

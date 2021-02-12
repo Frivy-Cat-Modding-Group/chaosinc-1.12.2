@@ -1,0 +1,25 @@
+{
+	"criteria": {
+		"changed_dimension": {
+			"trigger": "minecraft:changed_dimension",
+			"conditions": {
+				"from": "overworld",
+				"to": "deep_underground"
+			}
+		}
+	},
+	"display": {
+		"description": "Travel to the Deep Underground",
+		"title": "We need to go even deeper!",
+		"icon": {
+			"item": "chaosinc:du_portal"
+		}
+	},
+	"parent": "chaosinc:chaosinc/root",
+	"requirements": [
+		[
+			"changed_dimension"
+		]
+	],
+	"rewards": {}
+}

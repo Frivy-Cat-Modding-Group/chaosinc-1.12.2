@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "dummy=false,half=top": { "model": "bedrock" },
+        "dummy=false,half=bottom": { "model": "bedrock" }
+    }
+}

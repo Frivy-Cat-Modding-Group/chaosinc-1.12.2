@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "G G",
+        "GGG",
+        "GGG"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "gemEmerald"
+        }
+    },
+    "result": {
+        "item": "nnparadisemod:emerald_chestplate"
+    }
+}  

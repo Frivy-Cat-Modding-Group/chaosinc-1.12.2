@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "GGG",
+        "G G",
+        "G G"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "obsidian"
+        }
+    },
+    "result": {
+        "item": "nnparadisemod:obsidian_leggings"
+    }
+}   

@@ -1,0 +1,22 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:compressed_cactus"
+    },
+    "X": {
+      "item": "minecraft:book",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "chaosinc:cactus_bookshelf",
+    "count": 8
+  }
+}

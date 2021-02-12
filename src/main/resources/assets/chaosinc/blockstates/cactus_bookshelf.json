@@ -1,0 +1,16 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_column",
+        "textures":{
+            "end":"chaosinc:blocks/compressed_cactus",
+            "side":"chaosinc:blocks/cactus_bookshelf"
+        }
+    },
+    "variants": {
+        "inventory":{
+          "model":"cube_column"  
+        },
+        "normal": { "model": "cube_column" }
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:sandstone",
+			"data": 0
+		}
+	],
+	"result": {
+		"item": "chaosinc:sandstone_button",
+        "count":1
+	}
+}

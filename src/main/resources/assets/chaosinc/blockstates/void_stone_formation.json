@@ -1,0 +1,39 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "textures":{
+            "all":"chaosinc:blocks/void_stone"
+        },
+        "model":"chaosinc:formation"
+    },
+    "variants": {
+        "inventory":[{"model":"chaosinc:formation"}],
+        "facing=up": {
+            "model":"chaosinc:formation"
+        },
+        "facing=down": {
+            "model":"chaosinc:formation",
+            "x": 180
+        },
+        "facing=north": {
+            "model":"chaosinc:formation",
+            "y": 0,
+            "x": 90
+        },
+        "facing=south": {
+            "model":"chaosinc:formation",
+            "y": 180,
+            "x": 90
+        },
+        "facing=west": {
+            "model":"chaosinc:formation",
+            "y": 270,
+            "x": 90
+        },
+        "facing=east": {
+            "model":"chaosinc:formation",
+            "y": 90,
+            "x": 90
+        }
+    }
+}

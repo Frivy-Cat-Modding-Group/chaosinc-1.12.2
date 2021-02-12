@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "particle":"chaosinc:blocks/crafting_table_darkoak_front",
+            "down":"blocks/planks_big_oak",
+            "up":"chaosinc:blocks/crafting_table_darkoak_top",
+            "north":"chaosinc:blocks/crafting_table_darkoak_front",
+            "east":"chaosinc:blocks/crafting_table_darkoak_side",
+            "south":"chaosinc:blocks/crafting_table_darkoak_side",
+            "west":"chaosinc:blocks/crafting_table_darkoak_front"
+        }
+    },
+    "variants":{
+        "normal":{"model":"cube_all"},
+        "inventory":[{"model":"cube_all"}]
+    }
+}

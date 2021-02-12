@@ -1,0 +1,17 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cross",
+        "textures":{
+            "cross":"chaosinc:blocks/sapling_christmas"
+        }
+    },
+    "variants":{
+        "stage=0":{
+            "model":"cross"
+        },
+        "stage=1":{
+            "model":"cross"
+        }
+    }
+}

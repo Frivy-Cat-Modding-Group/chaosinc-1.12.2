@@ -1,0 +1,31 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"chaosinc:custom_furnace",
+        "textures":{
+            "front":"chaosinc:blocks/furnace_mossy_front_on",
+            "top":"chaosinc:blocks/furnace_mossy_top",
+            "side":"chaosinc:blocks/furnace_mossy_side"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"chaosinc:custom_furnace"  
+        },
+        "facing=north":{
+            "model":"chaosinc:custom_furnace"
+        },
+        "facing=south":{
+            "model":"chaosinc:custom_furnace",
+            "y":180
+        },
+        "facing=west":{
+            "model":"chaosinc:custom_furnace",
+            "y":270
+        },
+        "facing=east":{
+            "model":"chaosinc:custom_furnace",
+            "y":90
+        }
+    }
+}

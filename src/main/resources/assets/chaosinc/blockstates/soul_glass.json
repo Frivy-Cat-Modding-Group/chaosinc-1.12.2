@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/soul_glass",
+            "down":"chaosinc:blocks/soul_glass",
+            "east":"chaosinc:blocks/soul_glass",
+            "west":"chaosinc:blocks/soul_glass",
+            "north":"chaosinc:blocks/soul_glass",
+            "south":"chaosinc:blocks/soul_glass",
+            "particle":"chaosinc:blocks/soul_glass"
+        }
+    },
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

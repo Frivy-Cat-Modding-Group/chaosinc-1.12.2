@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"bBb",
+		"bBb"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:diamond_block"
+		},
+		"b": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "chaosinc:diamond_fence_gate",
+        "count":3
+	}
+}

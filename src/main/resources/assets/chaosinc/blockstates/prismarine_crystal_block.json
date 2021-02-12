@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/prismarine_crystal_block",
+            "down":"chaosinc:blocks/prismarine_crystal_block",
+            "east":"chaosinc:blocks/prismarine_crystal_block",
+            "west":"chaosinc:blocks/prismarine_crystal_block",
+            "north":"chaosinc:blocks/prismarine_crystal_block",
+            "south":"chaosinc:blocks/prismarine_crystal_block",
+            "particle":"chaosinc:blocks/prismarine_crystal_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cross",
+        "textures":{
+            "cross":"chaosinc:blocks/blue_rose"
+        }
+    },
+    "variants": {
+        "normal": { "model": "cross" }
+    }
+}

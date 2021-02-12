@@ -1,0 +1,19 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/void_stone",
+            "down":"chaosinc:blocks/void_stone",
+            "east":"chaosinc:blocks/void_stone",
+            "west":"chaosinc:blocks/void_stone",
+            "north":"chaosinc:blocks/void_stone",
+            "south":"chaosinc:blocks/void_stone",
+            "particle":"chaosinc:blocks/void_stone"
+        }
+    },
+    "variants": {
+        "dummy=false,half=top": { "model": "cube_all" },
+        "dummy=false,half=bottom": { "model": "cube_all" }
+    }
+}

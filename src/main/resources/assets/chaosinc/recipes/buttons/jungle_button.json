@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:planks",
+			"data": 3
+		}
+	],
+	"result": {
+		"item": "chaosinc:jungle_button"
+	}
+}

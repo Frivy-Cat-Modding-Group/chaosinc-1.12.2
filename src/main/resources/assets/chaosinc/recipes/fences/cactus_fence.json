@@ -1,0 +1,20 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"BbB",
+		"BbB"
+	],
+	"key": {
+		"b": {
+            "type": "forge:ore_dict",
+            "ore": "stickWood"
+		},
+		"B": {
+			"item": "chaosinc:compressed_cactus"
+		}
+	},
+	"result": {
+		"item": "chaosinc:cactus_fence",
+        "count":6
+	}
+}

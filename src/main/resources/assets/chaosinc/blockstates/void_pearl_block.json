@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/void_pearl_block",
+            "down":"chaosinc:blocks/void_pearl_block",
+            "east":"chaosinc:blocks/void_pearl_block",
+            "west":"chaosinc:blocks/void_pearl_block",
+            "north":"chaosinc:blocks/void_pearl_block",
+            "south":"chaosinc:blocks/void_pearl_block",
+            "particle":"chaosinc:blocks/void_pearl_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

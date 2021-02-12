@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "chaosinc:emerald_hoe",
+		"nbt": {
+			"ench": [{
+				"id": 35,
+				"lvl": 3
+			}]
+		}
+    }
+}

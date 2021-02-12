@@ -1,0 +1,21 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"BbB",
+		"BbB"
+	],
+	"key": {
+		"b": {
+            "type": "forge:ore_dict",
+            "ore": "ingotSilver"
+		},
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "blockSilver"
+		}
+	},
+	"result": {
+		"item": "chaosinc:silver_fence",
+        "count":6
+	}
+}

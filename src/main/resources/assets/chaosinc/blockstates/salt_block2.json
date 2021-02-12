@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/salt_block2",
+            "down":"chaosinc:blocks/salt_block2",
+            "east":"chaosinc:blocks/salt_block2",
+            "west":"chaosinc:blocks/salt_block2",
+            "north":"chaosinc:blocks/salt_block2",
+            "south":"chaosinc:blocks/salt_block2",
+            "particle":"chaosinc:blocks/salt_block2"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/blue_ice",
+            "down":"chaosinc:blocks/blue_ice",
+            "east":"chaosinc:blocks/blue_ice",
+            "west":"chaosinc:blocks/blue_ice",
+            "north":"chaosinc:blocks/blue_ice",
+            "south":"chaosinc:blocks/blue_ice",
+            "particle":"chaosinc:blocks/blue_ice"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

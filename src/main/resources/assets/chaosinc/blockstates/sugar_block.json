@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/sugar_block",
+            "down":"chaosinc:blocks/sugar_block",
+            "east":"chaosinc:blocks/sugar_block",
+            "west":"chaosinc:blocks/sugar_block",
+            "north":"chaosinc:blocks/sugar_block",
+            "south":"chaosinc:blocks/sugar_block",
+            "particle":"chaosinc:blocks/sugar_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

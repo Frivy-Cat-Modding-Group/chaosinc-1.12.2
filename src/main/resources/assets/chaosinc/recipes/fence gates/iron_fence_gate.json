@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"bBb",
+		"bBb"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:iron_block"
+		},
+		"b": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "chaosinc:iron_fence_gate",
+        "count":3
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"display": {
+		"description": "Die with some kind of dust in your hand!",
+		"title": "Another one bites the dust!",
+		"icon": {
+			"item": "minecraft:gunpowder"
+		}
+	},
+	"criteria": {
+        
+		"died": {
+			"trigger": "minecraft:entity_killed_player",
+			"conditions": {
+				"entity": {
+					"type": "skeleton"
+				},
+				"killing_blow": {
+					"is_projectile": true
+				}
+			}
+		},
+        
+		"pick_up_redstone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:redstone"
+				}]
+			}
+		},
+        
+        "pick_up_gunpowder": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:gunpowder"
+				}]
+			}
+		},
+        
+        "pick_up_glowstone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:glowstone_dust"
+				}]
+			}
+		},
+        
+        "pick_up_sugar": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:sugar"
+				}]
+			}
+		},
+        
+        "pick_up_salt": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "chaosinc:salt"
+				}]
+			}
+		}
+        
+	},
+	"parent": "chaosinc:chaosinc/root",
+	"rewards": {},
+	"requirements": [
+		["pick_up_redstone","pick_up_gunpowder","pick_up_glowstone","pick_up_sugar","pick_up_salt"],
+		["died"]
+	]
+}

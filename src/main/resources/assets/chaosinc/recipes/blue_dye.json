@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:blue_rose"
+    }
+  },
+  "result": {
+    "item": "chaosinc:blue_dye",
+    "count": 2
+  }
+}

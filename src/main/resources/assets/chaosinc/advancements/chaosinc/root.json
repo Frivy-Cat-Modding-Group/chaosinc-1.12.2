@@ -1,0 +1,27 @@
+{
+	"criteria": {
+		"changed_dimension": {
+			"trigger": "minecraft:changed_dimension",
+			"conditions": {
+				"from": "overworld",
+				"to": "deep_underground"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"changed_dimension"
+		]
+	],
+	"display": {
+		"title": "Chaos Inc. Mod",
+		"description": "It's for the heck of it!",
+		"icon": {
+			"item": "chaosinc:glowing_obsidian"
+		},
+		"background": "chaosinc:textures/blocks/blaze_block.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"rewards": {}
+}

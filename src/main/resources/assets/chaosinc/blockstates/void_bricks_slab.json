@@ -1,0 +1,22 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model": "half_slab",
+        "textures": {
+            "bottom": "chaosinc:blocks/void_bricks",
+            "top": "chaosinc:blocks/void_bricks",
+            "side": "chaosinc:blocks/void_bricks"
+        }
+    },
+    "variants": {
+        "inventory":{ 
+            "model": "half_slab"
+        },
+        "dummy=false,half=bottom": {
+            "model": "half_slab"
+        },
+        "dummy=false,half=top": {
+            "model": "upper_slab"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/ender_pearl_ore",
+            "down":"chaosinc:blocks/ender_pearl_ore",
+            "east":"chaosinc:blocks/ender_pearl_ore",
+            "west":"chaosinc:blocks/ender_pearl_ore",
+            "north":"chaosinc:blocks/ender_pearl_ore",
+            "south":"chaosinc:blocks/ender_pearl_ore",
+            "particle":"chaosinc:blocks/ender_pearl_ore"
+        }
+    },
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

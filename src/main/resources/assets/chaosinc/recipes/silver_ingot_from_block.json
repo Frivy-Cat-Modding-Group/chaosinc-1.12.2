@@ -1,0 +1,16 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"#"
+	],
+	"key": {
+		"#": {
+			"type": "forge:ore_dict",
+			"ore": "blockSilver"
+		}
+	},
+	"result": {
+		"item": "chaosinc:silver_ingot",
+		"count": 9
+	}
+}

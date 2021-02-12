@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "chaosinc:void_stone"
+		}
+	},
+	"result": {
+		"item": "chaosinc:void_slab",
+		"data":0,
+		"count": 6
+	}
+}

@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:dye",
+                        "data": 3
+                    }
+                ]
+            }
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:dye",
+            "data": 3
+        },
+        "title": "HA! GOT 'EM!",
+        "description": "Harvest Cocoa Beans from a jungle tree"
+    },
+    "parent": "chaosinc:chaosinc/spawn_giant"
+}

@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/rusty_iron_block",
+            "down":"chaosinc:blocks/rusty_iron_block",
+            "east":"chaosinc:blocks/rusty_iron_block",
+            "west":"chaosinc:blocks/rusty_iron_block",
+            "north":"chaosinc:blocks/rusty_iron_block",
+            "south":"chaosinc:blocks/rusty_iron_block",
+            "particle":"chaosinc:blocks/rusty_iron_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

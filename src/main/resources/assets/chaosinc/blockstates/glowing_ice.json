@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/glowing_ice",
+            "down":"chaosinc:blocks/glowing_ice",
+            "east":"chaosinc:blocks/glowing_ice",
+            "west":"chaosinc:blocks/glowing_ice",
+            "north":"chaosinc:blocks/glowing_ice",
+            "south":"chaosinc:blocks/glowing_ice",
+            "particle":"chaosinc:blocks/glowing_ice"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

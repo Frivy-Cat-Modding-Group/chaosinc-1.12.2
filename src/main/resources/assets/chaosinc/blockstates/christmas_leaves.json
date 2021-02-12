@@ -1,0 +1,68 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"textures": {
+			"up": "chaosinc:blocks/leaves_christmas",
+			"down": "chaosinc:blocks/leaves_christmas",
+			"east": "chaosinc:blocks/leaves_christmas",
+			"west": "chaosinc:blocks/leaves_christmas",
+			"north": "chaosinc:blocks/leaves_christmas",
+			"south": "chaosinc:blocks/leaves_christmas",
+			"particle": "chaosinc:blocks/leaves_christmas"
+		}
+	},
+	"variants": {
+		"inventory": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=true,variant=oak": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=true,variant=oak": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=false,variant=oak": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=false,variant=oak": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=true,variant=birch": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=true,variant=birch": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=false,variant=birch": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=false,variant=birch": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=true,variant=spruce": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=true,variant=spruce": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=false,variant=spruce": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=false,variant=spruce": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=true,variant=jungle": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=true,variant=jungle": {
+			"model": "cube_all"
+		},
+		"check_decay=true,decayable=false,variant=jungle": {
+			"model": "cube_all"
+		},
+		"check_decay=false,decayable=false,variant=jungle": {
+			"model": "cube_all"
+		}
+	}
+}

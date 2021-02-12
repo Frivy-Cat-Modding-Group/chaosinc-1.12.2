@@ -1,0 +1,21 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"X",
+		"X",
+		"#"
+	],
+	"key": {
+		"#": {
+			"type": "forge:ore_dict",
+			"ore": "stickWood"
+		},
+		"X": {
+			"type": "forge:ore_dict",
+			"ore": "ingotSilver"
+		}
+	},
+	"result": {
+		"item": "chaosinc:silver_sword"
+	}
+}

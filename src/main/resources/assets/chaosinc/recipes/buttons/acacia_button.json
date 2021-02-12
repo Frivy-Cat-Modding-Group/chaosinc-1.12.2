@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:planks",
+			"data": 4
+		}
+	],
+	"result": {
+		"item": "chaosinc:acacia_button",
+        "count":2
+	}
+}

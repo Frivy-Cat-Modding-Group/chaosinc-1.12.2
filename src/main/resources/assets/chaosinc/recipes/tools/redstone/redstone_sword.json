@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "chaosinc:redstone_sword",
+	"nbt": {
+        "ench":[{
+            "id":20,
+            "lvl":2
+            }]
+		}
+    },
+	"nbt": {
+		"ench":[{
+            "id":20,
+            "lvl":2
+        }]
+    }
+}
+

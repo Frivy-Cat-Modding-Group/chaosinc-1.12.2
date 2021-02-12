@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal",
+      "data":0
+    }
+  },
+  "result": {
+    "item": "chaosinc:black_dye",
+    "count": 2
+  }
+}

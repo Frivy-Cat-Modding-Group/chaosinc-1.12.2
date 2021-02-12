@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:stone",
+			"data": 3
+		}
+	],
+	"result": {
+		"item": "chaosinc:diorite_button"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:stone",
+			"data": 1
+		}
+	],
+	"result": {
+		"item": "chaosinc:granite_button"
+	}
+}

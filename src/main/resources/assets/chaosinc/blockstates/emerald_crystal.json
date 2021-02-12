@@ -1,0 +1,13 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"chaosinc:crystal",
+        "textures": {
+            "all": "chaosinc:blocks/emerald_crystal"
+        }
+    },
+    "variants":{
+        "inventory":{"model":"chaosinc:crystal"},
+        "normal":{"model":"chaosinc:crystal"}
+    }
+}

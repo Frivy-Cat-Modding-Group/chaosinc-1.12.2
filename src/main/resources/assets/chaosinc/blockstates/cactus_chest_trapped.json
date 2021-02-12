@@ -1,0 +1,1 @@
+{"forge_marker":1,"variants":{"facing=north":{"model":"chaosinc:cactus_chest_trapped"},"facing=south":{"model":"chaosinc:cactus_chest_trapped","y":180},"facing=west":{"model":"chaosinc:cactus_chest_trapped","y":270},"facing=east":{"model":"chaosinc:cactus_chest_trapped","y":90}}}

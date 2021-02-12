@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/compressed_cactus",
+            "down":"chaosinc:blocks/compressed_cactus",
+            "east":"chaosinc:blocks/compressed_cactus",
+            "west":"chaosinc:blocks/compressed_cactus",
+            "north":"chaosinc:blocks/compressed_cactus",
+            "south":"chaosinc:blocks/compressed_cactus",
+            "particle":"chaosinc:blocks/compressed_cactus"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

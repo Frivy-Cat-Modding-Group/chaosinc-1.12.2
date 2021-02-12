@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "rabbit": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "rabbit",
+                    "nbt": "{RabbitType:99}"
+                }
+            }
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "title": "That's the beast? 'Tis but a rabbit!",
+        "description": "Kill a Killer Bunny",
+        "frame": "challenge"
+    },
+    "parent": "chaosinc:chaosinc/that_kills_people_carl",
+    "requirements": [
+        [
+            "rabbit"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"#"
+	],
+	"key": {
+		"#": {
+            "type": "forge:ore_dict",
+            "ore": "gemRuby"
+		}
+	},
+	"result": {
+		"item": "chaosinc:ruby_button"
+	}
+}

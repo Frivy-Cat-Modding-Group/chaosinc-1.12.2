@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/silver_ore",
+            "down":"chaosinc:blocks/silver_ore",
+            "east":"chaosinc:blocks/silver_ore",
+            "west":"chaosinc:blocks/silver_ore",
+            "north":"chaosinc:blocks/silver_ore",
+            "south":"chaosinc:blocks/silver_ore",
+            "particle":"chaosinc:blocks/silver_ore"
+        }
+    },
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

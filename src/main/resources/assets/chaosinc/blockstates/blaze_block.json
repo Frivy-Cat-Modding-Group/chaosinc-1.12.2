@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/blaze_block",
+            "down":"chaosinc:blocks/blaze_block",
+            "east":"chaosinc:blocks/blaze_block",
+            "west":"chaosinc:blocks/blaze_block",
+            "north":"chaosinc:blocks/blaze_block",
+            "south":"chaosinc:blocks/blaze_block",
+            "particle":"chaosinc:blocks/blaze_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

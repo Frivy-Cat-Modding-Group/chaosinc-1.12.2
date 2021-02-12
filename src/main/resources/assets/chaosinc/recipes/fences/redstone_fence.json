@@ -1,0 +1,20 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"BbB",
+		"BbB"
+	],
+	"key": {
+		"b": {
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+		},
+		"B": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	"result": {
+		"item": "chaosinc:redstone_fence",
+        "count":6
+	}
+}

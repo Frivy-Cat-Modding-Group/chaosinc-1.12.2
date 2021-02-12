@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "particle":"chaosinc:blocks/lamp_cyan",
+            "down":"chaosinc:blocks/lamp_cyan",
+            "up":"chaosinc:blocks/lamp_cyan",
+            "north":"chaosinc:blocks/lamp_cyan",
+            "east":"chaosinc:blocks/lamp_cyan",
+            "south":"chaosinc:blocks/lamp_cyan",
+            "west":"chaosinc:blocks/lamp_cyan"
+        }
+    },
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"BbB",
+		"BbB"
+	],
+	"key": {
+		"b": {
+            "type": "forge:ore_dict",
+            "ore": "gemRuby"
+		},
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "blockRuby"
+		}
+	},
+	"result": {
+		"item": "chaosinc:ruby_fence",
+        "count":6
+	}
+}

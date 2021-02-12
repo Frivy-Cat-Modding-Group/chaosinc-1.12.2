@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:blaze_powder"
+		},
+		"X": {
+			"item": "chaosinc:void_pearl"
+		}
+	},
+	"result": {
+		"item": "chaosinc:void_portal",
+        "count":6
+	}
+}

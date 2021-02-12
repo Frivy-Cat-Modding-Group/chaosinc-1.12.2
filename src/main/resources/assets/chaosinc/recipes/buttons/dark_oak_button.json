@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:planks",
+			"data": 5
+		}
+	],
+	"result": {
+		"item": "chaosinc:dark_oak_button"
+	}
+}

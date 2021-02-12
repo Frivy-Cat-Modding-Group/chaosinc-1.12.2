@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "dummy=false,half=top": { "model": "obsidian" },
+        "dummy=false,half=bottom": { "model": "obsidian" }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/bulletproof_glass",
+            "down":"chaosinc:blocks/bulletproof_glass",
+            "east":"chaosinc:blocks/bulletproof_glass",
+            "west":"chaosinc:blocks/bulletproof_glass",
+            "north":"chaosinc:blocks/bulletproof_glass",
+            "south":"chaosinc:blocks/bulletproof_glass",
+            "particle":"chaosinc:blocks/bulletproof_glass"
+        }
+    },
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "textures":{"texture":"chaosinc:blocks/grass_colored"}
+    },
+	"variants": {
+        "inventory":{
+            "model":"pressure_plate_up"
+        },
+		"powered=false": {
+			"model": "chaosinc:grass_pressure_plate_up"
+		},
+		"powered=true": {
+			"model": "chaosinc:grass_pressure_plate_down"
+		}
+	}
+}

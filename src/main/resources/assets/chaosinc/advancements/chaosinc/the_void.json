@@ -1,0 +1,23 @@
+{
+	"display": {
+		"description": "Travel to the Deep Void",
+		"title": "Is this the Void?",
+		"icon": {
+			"item": "chaosinc:void_portal"
+		}
+	},
+	"criteria": {
+		"changed_dimension": {
+			"trigger": "minecraft:changed_dimension",
+			"conditions": {
+				"from": "overworld",
+				"to": "deep_void"
+			}
+		}
+	},
+	"parent": "chaosinc:chaosinc/going_even_deeper",
+	"rewards": {},
+	"requirements": [
+		["changed_dimension"]
+	]
+}

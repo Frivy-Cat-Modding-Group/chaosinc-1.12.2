@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"e e",
+		"ese",
+		"e e"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stick"
+		},
+		"e": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "chaosinc:emerald_rail"
+	}
+}

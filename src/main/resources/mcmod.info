@@ -1,0 +1,16 @@
+[
+ {
+  "modid": "chaosinc",
+  "name": "ChaosDog Inc. Mod",
+  "description": "This is a mod that is a similar form of Nether Noah's Paradise Mod!",
+  "version": "0.0",
+  "logoFile": "assets/chaosinc/textures/nnparadisemod.png",
+  "url": "https://gitlab.com/NoahJelen/nnparadisemod",
+  "updateUrl": "",
+  "authorList": ["NetherNoah777","ChaosDog"],
+  "credits": "Thanks for the awesome modding tutorials, Loremaster!\nThanks for the sample mod, CJMinecraft!\nThanks for the door example, DragonFerocity!\nMore credits in the source code!",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+ }
+]

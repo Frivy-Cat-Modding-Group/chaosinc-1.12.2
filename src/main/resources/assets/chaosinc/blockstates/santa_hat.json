@@ -1,0 +1,19 @@
+{
+    "variants":{
+        "facing=north":{
+            "model":"chaosinc:santa_hat"
+        },
+        "facing=south":{
+            "model":"chaosinc:santa_hat",
+            "y":180
+        },
+        "facing=west":{
+            "model":"chaosinc:santa_hat",
+            "y":270
+        },
+        "facing=east":{
+            "model":"chaosinc:santa_hat",
+            "y":90
+        }
+    }
+}

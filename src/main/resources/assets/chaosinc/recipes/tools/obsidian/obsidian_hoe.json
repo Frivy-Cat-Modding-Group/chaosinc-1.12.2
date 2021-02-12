@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "chaosinc:obsidian_hoe"
+  }
+}

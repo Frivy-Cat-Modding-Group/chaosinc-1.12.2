@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube_all",
+		"textures": {
+			"up": "chaosinc:blocks/present_top",
+			"down": "chaosinc:blocks/present_bottom",
+			"east": "chaosinc:blocks/present_side2",
+			"west": "chaosinc:blocks/present_side2",
+			"north": "chaosinc:blocks/present_side",
+			"south": "chaosinc:blocks/present_side",
+			"particle": "chaosinc:blocks/present_side"
+		}
+	},
+    "variants":{
+        "inventory":{
+            "model":"cube_all"
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

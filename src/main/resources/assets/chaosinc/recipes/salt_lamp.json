@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "chaosinc:salt"
+		},
+		"X": {
+			"item": "minecraft:blaze_powder"
+		}
+	},
+	"result": {
+		"item": "chaosinc:salt_lamp"
+	}
+}

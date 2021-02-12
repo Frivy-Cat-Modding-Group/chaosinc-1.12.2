@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "villager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "villager"
+        }
+      }
+    },
+    "cute_villager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "yarrmateys_cutemobmodels:cmmvillager"
+        }
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "item": "chaosinc:redstone_sword"
+    },
+    "title": "CAAARL, THAT KILLS PEOPLE!",
+    "description": "Kill a Villager",
+    "frame": "challenge"
+  },
+  "parent": "chaosinc:chaosinc/root",
+  "requirements": [
+    [
+      "cute_villager",
+      "villager"
+    ]
+  ]
+}

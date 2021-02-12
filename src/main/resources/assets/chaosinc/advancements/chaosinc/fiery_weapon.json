@@ -1,0 +1,28 @@
+{
+	"display": {
+		"description": "Craft a Redstone Sword",
+		"title": "A Fiery Sword",
+		"icon": {
+			"item": "chaosinc:redstone_sword",
+            "nbt":"{Ench:[{id:1,lvl:1}]}"
+		}
+	},
+	"criteria": {
+        "craft_redstone_sword": {
+			"conditions": {
+				"items": [
+					{
+						"item": "chaosinc:redstone_sword"
+					}
+				]
+			},
+			"trigger": "minecraft:inventory_changed"
+		}
+        
+	},
+	"parent": "chaosinc:chaosinc/root",
+	"rewards": {},
+	"requirements": [
+		["craft_redstone_sword"]
+	]
+}

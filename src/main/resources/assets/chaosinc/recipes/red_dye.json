@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:rose"
+    }
+  },
+  "result": {
+    "item": "minecraft:dye",
+    "data":1,
+    "count": 2
+  }
+}

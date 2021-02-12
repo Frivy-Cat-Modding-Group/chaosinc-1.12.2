@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "chaosinc:compressed_cactus_chest"
+		},
+		{
+			"item": "minecraft:tripwire_hook"
+        }
+	],
+	"result": {
+		"item": "chaosinc:compressed_cactus_chest_trapped"
+	}
+}

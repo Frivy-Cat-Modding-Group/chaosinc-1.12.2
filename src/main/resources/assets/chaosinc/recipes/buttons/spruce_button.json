@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:planks",
+			"data": 1
+		}
+	],
+	"result": {
+		"item": "chaosinc:spruce_button"
+	}
+}

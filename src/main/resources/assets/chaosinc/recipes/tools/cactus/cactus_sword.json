@@ -1,0 +1,20 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"X",
+		"X",
+		"#"
+	],
+	"key": {
+		"#": {
+			"type": "forge:ore_dict",
+			"ore": "stickWood"
+		},
+		"X": {
+			"item": "chaosinc:compressed_cactus"
+		}
+	},
+	"result": {
+		"item": "chaosinc:cactus_sword"
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/ruby_block",
+            "down":"chaosinc:blocks/ruby_block",
+            "east":"chaosinc:blocks/ruby_block",
+            "west":"chaosinc:blocks/ruby_block",
+            "north":"chaosinc:blocks/ruby_block",
+            "south":"chaosinc:blocks/ruby_block",
+            "particle":"chaosinc:blocks/ruby_block"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

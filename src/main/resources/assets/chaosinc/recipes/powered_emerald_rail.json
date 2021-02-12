@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"e e",
+		"ese",
+		"ere"
+	],
+	"key": {
+		"s": {
+			"item": "chaosinc:emerald_rail"
+		},
+		"e": {
+			"item": "minecraft:gold_ingot"
+		},
+		"r": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "chaosinc:powered_emerald_rail"
+	}
+}

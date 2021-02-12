@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:void_stone"
+    }
+  },
+  "result": {
+    "item": "chaosinc:void_pressure_plate"
+  }
+}

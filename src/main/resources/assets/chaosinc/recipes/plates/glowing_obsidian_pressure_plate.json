@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:glowing_obsidian",
+      "data":0
+    }
+  },
+  "result": {
+    "item": "chaosinc:glowing_obsidian_pressure_plate"
+  }
+}

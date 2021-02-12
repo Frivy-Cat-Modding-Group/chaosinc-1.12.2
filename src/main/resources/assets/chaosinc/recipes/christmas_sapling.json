@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [{
+			"item": "minecraft:dye",
+			"data": 1
+		},
+		{
+			"item": "minecraft:dye",
+			"data": 2
+		}
+	],
+	"result": {
+		"item": "chaosinc:brown_dye",
+		"count": 2
+	}
+}

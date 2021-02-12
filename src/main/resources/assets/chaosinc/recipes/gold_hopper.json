@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"# #",
+		"#c#",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:gold_ingot"
+		},
+		"c": {
+			"item": "minecraft:chest"
+		}
+	},
+	"result": {
+		"item": "chaosinc:gold_hopper"
+	}
+}

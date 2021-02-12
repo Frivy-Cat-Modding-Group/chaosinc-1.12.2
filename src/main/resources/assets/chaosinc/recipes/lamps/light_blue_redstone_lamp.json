@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "X": {
+            "type": "forge:ore_dict",
+            "ore": "dyeLightBlue"
+    }
+  },
+  "result": {
+    "item": "chaosinc:light_blue_redstone_lamp",
+    "count": 8
+  }
+}

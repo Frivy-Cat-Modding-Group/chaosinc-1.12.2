@@ -1,0 +1,18 @@
+{
+	"result": {
+		"item": "nnparadisemod:santa_pants"
+	},
+	"pattern": [
+		"xxx",
+		"x x",
+        "x x"
+
+	],
+	"type": "minecraft:crafting_shaped",
+	"key": {
+        "x": {
+			"item": "minecraft:wool",
+			"data": 14
+		}
+	}
+}

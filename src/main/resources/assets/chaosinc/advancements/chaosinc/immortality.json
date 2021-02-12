@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "chaosinc:regeneration_stone"
+                    }
+                ]
+            }
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "chaosinc:regeneration_stone"
+        },
+        "title": "I'm immortal!!",
+        "description": "Mine a regeneration stone"
+    },
+    "parent": "chaosinc:chaosinc/the_void"
+}

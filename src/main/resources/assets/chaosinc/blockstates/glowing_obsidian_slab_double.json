@@ -1,0 +1,19 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/glowing_obsidian",
+            "down":"chaosinc:blocks/glowing_obsidian",
+            "east":"chaosinc:blocks/glowing_obsidian",
+            "west":"chaosinc:blocks/glowing_obsidian",
+            "north":"chaosinc:blocks/glowing_obsidian",
+            "south":"chaosinc:blocks/glowing_obsidian",
+            "particle":"chaosinc:blocks/glowing_obsidian"
+        }
+    },
+    "variants": {
+        "dummy=false,half=top": { "model": "cube_all" },
+        "dummy=false,half=bottom": { "model": "cube_all" }
+    }
+}

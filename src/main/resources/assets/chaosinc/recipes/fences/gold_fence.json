@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"BbB",
+		"BbB"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:gold_block"
+		},
+		"b": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "chaosinc:gold_fence",
+        "count":9
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "up":"chaosinc:blocks/portal",
+            "down":"chaosinc:blocks/portal",
+            "east":"chaosinc:blocks/portal",
+            "west":"chaosinc:blocks/portal",
+            "north":"chaosinc:blocks/portal",
+            "south":"chaosinc:blocks/portal",
+            "particle":"chaosinc:blocks/portal"
+        }
+    },
+    "variants":{
+        "inventory":{
+          "model":"cube_all"  
+        },
+        "axis=z":{
+            "model":"cube_all"
+        },
+        "axis=x":{
+            "model":"cube_all"
+        }
+    }
+}

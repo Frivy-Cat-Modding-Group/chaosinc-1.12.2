@@ -1,0 +1,10 @@
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"chaosinc:spike"
+    },
+    "variants":{
+        "inventory":{"model":"chaosinc:spike"},
+        "normal":{"model":"chaosinc:spike"}
+    }
+}

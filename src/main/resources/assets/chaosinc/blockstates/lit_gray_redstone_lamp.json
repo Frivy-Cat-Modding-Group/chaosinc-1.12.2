@@ -1,0 +1,20 @@
+{
+    "forge_marker": 1,
+    "defaults":{
+        "model":"cube_all",
+        "textures":{
+            "particle":"chaosinc:blocks/lamp_gray_lit",
+            "down":"chaosinc:blocks/lamp_gray_lit",
+            "up":"chaosinc:blocks/lamp_gray_lit",
+            "north":"chaosinc:blocks/lamp_gray_lit",
+            "east":"chaosinc:blocks/lamp_gray_lit",
+            "south":"chaosinc:blocks/lamp_gray_lit",
+            "west":"chaosinc:blocks/lamp_gray_lit"
+        }
+    },
+    "variants":{
+        "normal":{
+            "model":"cube_all"
+        }
+    }
+}

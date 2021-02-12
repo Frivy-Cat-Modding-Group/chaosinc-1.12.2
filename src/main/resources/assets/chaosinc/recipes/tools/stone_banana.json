@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "# ",
+    "# ",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict",
+      "ore": "stone"
+    }
+  },
+  "result": {
+    "item": "chaosinc:stone_banana",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" # ",
+		"###",
+		" # "
+	],
+	"key": {
+		"#": {
+			"item": "chaosinc:glowing_obsidian"
+		}
+	},
+	"result": {
+		"item": "chaosinc:glowing_obsidian_trapdoor",
+		"count": 5
+	}
+}

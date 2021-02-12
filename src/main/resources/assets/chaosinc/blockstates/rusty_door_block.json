@@ -1,0 +1,443 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"facing=east,half=lower,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=south,half=lower,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=west,half=lower,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=north,half=lower,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=east,half=lower,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=south,half=lower,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=west,half=lower,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=north,half=lower,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=east,half=lower,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=south,half=lower,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=west,half=lower,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=north,half=lower,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=east,half=lower,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=south,half=lower,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=west,half=lower,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=north,half=lower,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		
+		
+		"facing=east,half=upper,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=south,half=upper,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=west,half=upper,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=north,half=upper,hinge=left,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=east,half=upper,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=south,half=upper,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=west,half=upper,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=north,half=upper,hinge=right,open=false,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=east,half=upper,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=south,half=upper,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=west,half=upper,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=north,half=upper,hinge=left,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=east,half=upper,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=south,half=upper,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=west,half=upper,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=north,half=upper,hinge=right,open=true,powered=true": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		
+		
+		"facing=east,half=lower,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=south,half=lower,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=west,half=lower,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=north,half=lower,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=east,half=lower,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=south,half=lower,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=west,half=lower,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=north,half=lower,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=east,half=lower,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=south,half=lower,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		"facing=west,half=lower,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=north,half=lower,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+        },
+		"facing=east,half=lower,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 270
+		},
+		"facing=south,half=lower,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			}
+		},
+		"facing=west,half=lower,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 90
+		},
+		"facing=north,half=lower,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_bottom",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_lower"
+			},
+			"y": 180
+		},
+		
+		
+		"facing=east,half=upper,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=south,half=upper,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=west,half=upper,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=north,half=upper,hinge=left,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=east,half=upper,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=south,half=upper,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=west,half=upper,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=north,half=upper,hinge=right,open=false,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=east,half=upper,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=south,half=upper,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		},
+		"facing=west,half=upper,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=north,half=upper,hinge=left,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top_rh",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=east,half=upper,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 270
+		},
+		"facing=south,half=upper,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			}
+		},
+		"facing=west,half=upper,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 90
+		},
+		"facing=north,half=upper,hinge=right,open=true,powered=false": {
+			"model": "chaosinc:custom_door_top",
+			"textures": {
+				"all": "chaosinc:blocks/door_rusty_iron_upper"
+			},
+			"y": 180
+		}
+	}
+}

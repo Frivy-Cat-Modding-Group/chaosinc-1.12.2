@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "chaosinc:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "chaosinc:silver_bars",
+    "count": 16
+  }
+}
